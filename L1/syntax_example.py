@@ -6,7 +6,7 @@ from main import print_hi
 
 # a = "hello"
 
-a = "hello"   #a is a string
+a = "hello"   #'a' is a string
 b = "hello"
 c = "hello"
 f = "hello"
